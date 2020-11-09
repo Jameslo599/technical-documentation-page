@@ -1,0 +1,24 @@
+/*Style Sheets*/
+#header {
+    background-color: white;
+}
+body {
+    font-family: 'Open sans', Arial, sans-serif;
+    color: rgb(77, 77, 77);
+}
+body blockquote{
+    background-color: rgb(163, 163, 228);
+}
+ul li{
+    list-style-type: disc outside none;
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 1em;
+}
+.circle-list li{
+    list-style-type: disc outside none;
+    display: list-item;
+    list-style-type: circle;
+    margin-left: 1em;
+}
+
